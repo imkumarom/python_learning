@@ -10,14 +10,3 @@ for i in range(a,b+1):
 print(sum)
     
     
-    
-    
-    
-    
-    
-    
-    
-    
-
-
-    
