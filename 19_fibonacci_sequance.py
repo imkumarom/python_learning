@@ -12,4 +12,3 @@ for i in range(500):
     tmp = a 
     a=b
     b=tmp+b
-19_fibonacci_sequance.py
